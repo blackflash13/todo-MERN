@@ -14,7 +14,14 @@ $ cd server
 ```
 
 ## Fill in the .env file
-
+```
+PORT=
+DB_URL=
+JWT_ACCESS_SECRET=
+JWT_REFREST_SECRET=
+API_URL=
+CLIENT_URL=
+```
 ## Running the app
 
 ```bash
